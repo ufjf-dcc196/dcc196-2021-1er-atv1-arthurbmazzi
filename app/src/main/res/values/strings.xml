@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Atividade 1</string>
+    <string name="matricula">201765012C</string>
+    <string name="matricula_label">Matrícula:</string>
+    <string name="nome_label">Nome:</string>
+    <string name="nome">Arthur Mazzi</string>
 </resources>
